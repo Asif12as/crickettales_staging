@@ -2,7 +2,10 @@
 
 A unified community-driven platform for sharing and voting on cricket stories, integrating all modules into a single deployable React application. CricketTales allows cricket enthusiasts to share their memorable cricket experiences, vote on their favorite stories, and engage with the cricket community.
 
-## 🏏 Features
+## 🏏 Features view
+![Story](crickettales1.JPG)
+![Voting](crickettales2.JPG)
+![Plan](crickettales3.JPG)
 
 ### Core Platform
 - **Story Submission**: Share your cricket stories with the community
