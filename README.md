@@ -248,4 +248,4 @@ For issues and questions, please create an issue in the GitHub repository.
 
 **Live Demo**: [Coming Soon]
 **Repository**: [https://github.com/yourusername/crickettales-staging](https://github.com/yourusername/crickettales-staging)
-**Last Updated**: 2024
+**Last Updated**: 2025
