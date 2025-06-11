@@ -42,7 +42,7 @@ A unified community-driven platform for sharing and voting on cricket stories, i
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone <(https://github.com/Asif12as/crickettales_staging)>
 cd crickettales-staging
 
 # Install dependencies
@@ -179,7 +179,7 @@ crickettales-staging/
 For production deployment, set these environment variables:
 
 ```bash
-REACT_APP_API_URL=https://api.your-domain.com
+REACT_APP_API_URL=https://api.hosting domain
 REACT_APP_STRIPE_PUBLISHABLE_KEY=your_stripe_publishable_key
 REACT_APP_SITE_URL=https://your-domain.com
 ```
@@ -189,7 +189,7 @@ For server-side environment variables (if using a separate API server):
 ```bash
 NODE_ENV=production
 STRIPE_SECRET_KEY=your_stripe_secret_key
-CORS_ORIGIN=https://your-domain.com
+CORS_ORIGIN=https://url
 ```
 
 ## 🧪 Testing
